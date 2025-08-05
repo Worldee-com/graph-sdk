@@ -1,5 +1,5 @@
 {
-    "name": "nickdnk/graph-sdk",
+    "name": "worldee/graph-sdk",
     "description": "Facebook SDK for PHP compatible with PHP8",
     "keywords": ["facebook", "sdk"],
     "type": "library",
